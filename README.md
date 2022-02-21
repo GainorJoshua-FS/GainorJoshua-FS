@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Joshua Gainor, but feel free to call me Josh! I am pursuing my life as a web designer and developer after graduating from Full Sail University. 
+- 👀 My biggest hobby by far is collecting/playing board games. I love the aspect of sitting down with some friends or family and having a good time. I am also very into video games, my favorite being Legend of Zelda: Majora's Mask (the best one).
+- 🌱 I’m currently learning NodeJs, React, and almost everything there is to do with web development. I know most of the basics as of right now, but I know theres still PLENTY for me to learn. 
+- 💞️ I’m looking to collaborate on anything that I'm passionate about. I am very open-minded, so I can work on almost anything as long as I believe in the purpose of it.
+- 📫 How to reach me: joshgainor@gmail.com
